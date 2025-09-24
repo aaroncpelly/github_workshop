@@ -1,5 +1,5 @@
 ---
-title: "Insert a title here"
+title: "New title"
 output:
   pdf_document: default
   html_document: default
@@ -36,6 +36,7 @@ Take 1 minute to
 
 ```{r}
 # Put your code here
+test <- 3 + 2
 ```
 
 
